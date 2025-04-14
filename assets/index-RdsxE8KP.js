@@ -10566,13 +10566,13 @@ const yi = Ze("X", [["path", {
                         to: "/",
                         children: c.jsx("img", {
                             src: "https://i.imgur.com/W6WOnwB.png",
-                            alt: "BlueWing™",
+                            alt: "KXZ Project™",
                             className: "h-16 w-12 object-cover rounded-lg"
                         })
                     }), c.jsx(pe, {
                         to: "/",
                         className: "ml-3 text-xl font-bold tracking-tight",
-                        children: "BlueWing"
+                        children: "KXZ Project"
                     })]
                 }), c.jsx("div", {
                     className: "hidden lg:flex items-center space-x-8",
@@ -10656,15 +10656,15 @@ const yi = Ze("X", [["path", {
                     className: "flex items-center space-x-2",
                     children: [c.jsx("img", {
                         src: "https://i.imgur.com/W6WOnwB.png",
-                        alt: "BlueWing™",
+                        alt: "KXZ Project™",
                         className: "h-8 w-6 object-cover rounded"
                     }), c.jsx("span", {
                         className: "text-lg font-bold tracking-tight",
-                        children: "BlueWing™"
+                        children: "KXZ Project™"
                     })]
                 }), c.jsx("p", {
                     className: "text-sm text-gray-400",
-                    children: "© 2024 BlueWing™. All rights reserved."
+                    children: "© 2025 KXZ Project™. All rights reserved."
                 }), c.jsx("p", {
                     className: "text-xs text-gray-500",
                     children: "Powered by Giraffe"
