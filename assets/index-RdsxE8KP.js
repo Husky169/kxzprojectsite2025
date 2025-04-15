@@ -14198,7 +14198,7 @@ const Xv = {
     })]
 })
   , Pc = {
-    shopId: 1,
+    shopId: 105400,
     storeUrl: "https://kxz.sellauth.com",
     productId: 170068
 }
