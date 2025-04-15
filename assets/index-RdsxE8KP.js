@@ -14849,7 +14849,7 @@ const Xv = {
                                             quantity: 1
                                         }],
                                         shopId: Pc.shopId,
-                                        modal: !1
+                                        modal: !0
                                     })
                                 }
                                 ,
