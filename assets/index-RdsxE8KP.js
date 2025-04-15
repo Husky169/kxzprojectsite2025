@@ -14199,11 +14199,11 @@ const Xv = {
 })
   , Pc = {
     shopId: 1,
-    storeUrl: "https://hyperthread.mysellauth.com/",
-    productId: 96864
+    storeUrl: "https://kxz.sellauth.com",
+    productId: 170068
 }
   , $p = [{
-    id: "fecurity-external-bo6",
+    id: "kxz-external",
     name: "Hello",
     type: "External",
     game: "BO6",
@@ -14226,20 +14226,20 @@ const Xv = {
     status: "Undetected",
     description: "Advanced external cheat for Call of Duty: Black Ops 6",
     subscriptions: [{
-        name: "Day Key",
+        name: "1 Week",
         price: 3.99,
         duration: "1 Day",
         variantId: 53241
     }, {
-        name: "Week Key",
+        name: "1 Month",
         price: 9.99,
         duration: "1 Week",
-        variantId: 66
+        variantId: 93928
     }, {
-        name: "Month Key",
+        name: "Lifetime",
         price: 19.99,
         duration: "1 Month",
-        variantId: 67
+        variantId: 93927
     }],
     compatibility: ["Windows 10 & 11 (Versions 2004 and newer, Home and Pro recommended)", "All CPU Compatible (Intel, AMD - UEFI only)", "All GPU Compatible"],
     features: [{
