@@ -14214,14 +14214,14 @@ const Xv = {
         alt: "KXZ Project"
     }, {
         type: "video",
-        url: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        youtubeId: "dQw4w9WgXcQ",
-        thumbnailUrl: "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+        url: "https://www.youtube.com/watch?v=dQw2w7WgXcQ",
+        youtubeId: "dQw2w7WgXcQ",
+        thumbnailUrl: "",
         alt: "Product Demo Video"
     }, {
         type: "image",
         url: "https://th.bing.com/th/id/OIP.XgYQO3U45iLUiFSQJjLpqgHaE8?rs=1&pid=ImgDetMain",
-        alt: "Fecurity External Menu"
+        alt: "Image12345"
     }],
     status: "Undetected",
     description: "Advanced external cheat for Call of Duty: Black Ops 6",
