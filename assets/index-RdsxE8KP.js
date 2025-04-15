@@ -14210,8 +14210,8 @@ const Xv = {
     price: 3.99,
     media: [{
         type: "image",
-        url: "https://www.rd.com/wp-content/uploads/2020/11/GettyImages-889552354-e1606774439626.jpg",
-        alt: "Fecurity External Main View"
+        url: "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/58889ab2-2643-4e45-547a-57ddea277a00/public",
+        alt: "KXZ Project"
     }, {
         type: "video",
         url: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
