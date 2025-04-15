@@ -10660,14 +10660,14 @@ const yi = Ze("X", [["path", {
                         className: "h-8 w-6 object-cover rounded"
                     }), c.jsx("span", {
                         className: "text-lg font-bold tracking-tight",
-                        children: "KXZ Project™"
+                        children: "KXZ Project"
                     })]
                 }), c.jsx("p", {
                     className: "text-sm text-gray-400",
-                    children: "© 2025 KXZ Project™. All rights reserved."
+                    children: "© 2025 KXZ Project. All rights reserved."
                 }), c.jsx("p", {
                     className: "text-xs text-gray-500",
-                    children: "Powered by Giraffe"
+                    children: "Powered by Kxz"
                 })]
             }), c.jsxs("div", {
                 className: "text-center",
@@ -14217,28 +14217,28 @@ const Xv = {
         url: "https://www.youtube.com/watch?v=dQw2w7WgXcQ",
         youtubeId: "dQw2w7WgXcQ",
         thumbnailUrl: "",
-        alt: "Product Demo Video"
+        alt: ""
     }, {
         type: "image",
-        url: "https://th.bing.com/th/id/OIP.XgYQO3U45iLUiFSQJjLpqgHaE8?rs=1&pid=ImgDetMain",
-        alt: "Image12345"
+        url: "",
+        alt: ""
     }],
     status: "Undetected",
-    description: "Advanced external cheat for Call of Duty: Black Ops 6",
+    description: "Advanced external cheat for FiveM",
     subscriptions: [{
-        name: "1 Week",
-        price: 3.99,
-        duration: "1 Day",
+        name: "1 Week Key",
+        price: 4.99,
+        duration: "1 Week",
         variantId: 53241
     }, {
-        name: "1 Month",
+        name: "1 Month Key",
         price: 9.99,
-        duration: "1 Week",
+        duration: "1 Month",
         variantId: 93928
     }, {
-        name: "Lifetime",
+        name: "Lifetime Key",
         price: 19.99,
-        duration: "1 Month",
+        duration: "Lifetime",
         variantId: 93927
     }],
     compatibility: ["Windows 10 & 11 (Versions 2004 and newer, Home and Pro recommended)", "All CPU Compatible (Intel, AMD - UEFI only)", "All GPU Compatible"],
@@ -14300,7 +14300,7 @@ const Xv = {
                     className: "text-5xl font-bold mb-4",
                     children: ["Our ", c.jsx("span", {
                         className: "text-blue-400",
-                        children: "Cheats"
+                        children: "Products"
                     })]
                 })
             }), c.jsxs("div", {
