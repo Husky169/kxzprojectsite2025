@@ -14575,11 +14575,11 @@ const Xv = {
     status: "Undetected"
 }, {
     name: "Fecurity External",
-    game: "BO6",
+    game: "FiveM",
     status: "Undetected"
 }, {
     name: "Seal Internal",
-    game: "BO6",
+    game: "FiveM",
     status: "Undetected"
 }, {
     name: "Rona Temporary Spoofer",
