@@ -14204,9 +14204,9 @@ const Xv = {
 }
   , $p = [{
     id: "kxz-external",
-    name: "Hello",
+    name: "KXZ External",
     type: "External",
-    game: "BO6",
+    game: "FiveM",
     price: 3.99,
     media: [{
         type: "image",
@@ -14261,8 +14261,8 @@ const Xv = {
     id: "FN",
     name: "Fortnite [FN]"
 }, {
-    id: "BO6",
-    name: "Call Of Duty [BO6]"
+    id: "FiveM",
+    name: "FiveM"
 }, {
     id: "SW",
     name: "Software [SW]"
