@@ -14248,68 +14248,7 @@ const Xv = {
     }, {
         title: "Visuals",
         items: ["Enable Player ESP", "Enemy Only", "Box ESP", "Out-of-View (OOF) Indicators", "Health Bar / Shield Display", "Skeleton ESP (Adjustable Thickness)", "Glow (Fill and Thickness Options)", "Visibility Check", "Glow Types (Default, Textured, Thermal, Noisy)"]
-    }]
-
-
-
-
-
-
-  , $p = [{
-    id: "kxz-external",
-    name: "KXZ External",
-    type: "External",
-    game: "FiveM",
-    price: 3.99,
-    media: [{
-        type: "image",
-        url: "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/58889ab2-2643-4e45-547a-57ddea277a00/public",
-        alt: "KXZ Project"
-    }, {
-        type: "video",
-        url: "https://www.youtube.com/watch?v=dQw2w7WgXcQ",
-        youtubeId: "dQw2w7WgXcQ",
-        thumbnailUrl: "",
-        alt: ""
-    }, {
-        type: "image",
-        url: "",
-        alt: ""
-    }],
-    status: "Undetected",
-    description: "Advanced external cheat for FiveM",
-    subscriptions: [{
-        name: "1 Week Key",
-        price: 4.99,
-        duration: "1 Week",
-        variantId: 53241
-    }, {
-        name: "1 Month Key",
-        price: 9.99,
-        duration: "1 Month",
-        variantId: 93928
-    }, {
-        name: "Lifetime Key",
-        price: 19.99,
-        duration: "Lifetime",
-        variantId: 93927
-    }],
-    compatibility: ["Windows 10 & 11 (Versions 2004 and newer, Home and Pro recommended)", "All CPU Compatible (Intel, AMD - UEFI only)", "All GPU Compatible"],
-    features: [{
-        title: "Aimbot",
-        items: ["Enable Aimbot", "Aim at Shoot", "Aim at Scope", "Visible Check", "Aimbot Input Types (Relative, Absolute)", "Adjustable Speed (0-100%)", "Recoil Compensation", "Draw FOV", "Gamepad Support (Xbox only)", "Prediction", "Configurable FOV (0-15)", "Ignore Knocked Targets", "Target Switch Delay", "Unique Hitbox System", "Dual Aim Key Support"]
-    }, {
-        title: "Visuals",
-        items: ["Enable Player ESP", "Enemy Only", "Box ESP", "Out-of-View (OOF) Indicators", "Health Bar / Shield Display", "Skeleton ESP (Adjustable Thickness)", "Glow (Fill and Thickness Options)", "Visibility Check", "Glow Types (Default, Textured, Thermal, Noisy)"]
-    }]
-
-
-
-
-
-
-
-      
+    }]      
 }]
   , iy = e => $p.find(t => t.id === e)
   , oy = [{
